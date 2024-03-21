@@ -12,7 +12,7 @@ pygmentsStyle = "monokai"
 [params]
   footer = "Laiba Galani"
   description = "CS Student"
-  avatarURL = "/images/avatar.webp"
+  avatarURL = "/main/avatar.jpg"
   AvatarAltText = "avatar"
   avatarSize = "size-s"
   ShowBackToTopButton = true # true or false for "back to top" button on posts
