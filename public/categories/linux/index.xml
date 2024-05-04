@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Laiba</title>
+    <link>https://laibagillani.pages.dev/categories/linux/</link>
+    <description>Recent content in Linux on Laiba</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 13 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://laibagillani.pages.dev/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>fatal: could not read username for https://github.com: terminal prompts disabled</title>
+      <link>https://laibagillani.pages.dev/could-not-read-username/</link>
+      <pubDate>Tue, 13 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://laibagillani.pages.dev/could-not-read-username/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
